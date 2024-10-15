@@ -1,0 +1,41 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/ 
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# MATLAB
+*.mex*
+*.asv
+*.mat
+*.p
+*.mex*
+*.tmr
+
+# Mathematica
+*.nb
+*.m
+*.ma
+*.mt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Backup files
+*.bak
+*.tmp
+*.orig
